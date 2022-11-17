@@ -6,7 +6,7 @@ Welcome to the valgrind mentor session!
 To get a copy of this repo (so you can code your own solutions), clone this repo by running the following command:
 
 ```
-git clone https://github.com/itsbishalb/C-Workshop.git
+git clone https://github.com/nimitz-Bear/Valgrind-Workshop.git
 ```
 
 Feel free to ask any questions during the mentor session, or afterwards on discord.
@@ -126,6 +126,9 @@ Name: Bishal Bhandari Age: 23
 Name: Tiya Leach Age: 20
 Name: Mustafa Salim Age: 20
   ```
+
+Running Valgrind should say this to indicate no memory errors `
+ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)`
 
 ### Getting More Practice
 ---
